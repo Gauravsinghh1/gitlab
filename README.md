@@ -1,6 +1,6 @@
 # Country Information API Project with Theme Switcher
 
-This project is an API-based application where you can view live countr details. It includes multiple features for exploring information about countries.
+This project is an API-based application where you can view live country details. It includes multiple features for exploring information about countries.
 
 ## Project Website
 
