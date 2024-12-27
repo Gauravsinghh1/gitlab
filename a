@@ -1,0 +1,90 @@
+Completed
+Close the call
+
+
+From: Gaurav Singh <gaurav.singh@udtechs.com> 
+Sent: 10 December 2024 14:15
+To: Upendra Patel/ITD/CRP/Torrent <UpendraPatel@TorrentPharma.com>
+Cc: Backupsupport <backupsupport@udtechs.com>; Udtechs Helpdesk <helpdesk@udtechs.com>
+Subject: RE: Error - Pl check and call me
+
+[ External : Treat content with extra caution. ] 
+
+Dear Upendra Ji,
+
+As discussed, the IDES DB backup has been completed successfully.
+
+Kindly confirm the closure of the call.
+
+
+Thanks & Regards,
+ 
+Gaurav Singh
+Technical Support Engineer
+Unified Data-Tech Solutions Pvt. Ltd|
+P:	40726000 Ext:  M:   7710878194
+
+
+ 
+
+From: Gaurav Singh 
+Sent: Monday, December 9, 2024 8:51 PM
+To: UpendraPatel@TorrentPharma.com
+Cc: Backupsupport <backupsupport@udtechs.com>; Udtechs Helpdesk <helpdesk@udtechs.com>
+Subject: RE: Error - Pl check and call me
+
+Dear Upendra Ji,
+
+As discussed during the remote session, we identified that the IDES Oracle database backup was failing due to the log file path not being configured. This issue has been resolved.
+
+Additionally, we noticed that the backup process was running with a single session. We have now configured it to run with two sessions, enabling it to utilize two drives for the backup.
+
+The backup is now functioning correctly, and it is utilizing two drives as intended.
+
+Please find the screenshots below for your reference. 
+ 
+ Backup is running on two drives. 
+ 
+ 
+
+Thanks & Regards, 
+Gaurav
+ 
+From: Gaurav Singh 
+Sent: Monday, December 9, 2024 4:18 PM
+To: UpendraPatel@TorrentPharma.com
+Cc: Backupsupport <backupsupport@udtechs.com>; Udtechs Helpdesk <helpdesk@udtechs.com>
+Subject: RE: Error - Pl check and call me
+ 
+Hi Upendra Ji,
+ 
+Please join meeting using below link to check , oracle backup failure.
+ 
+Join Zoom Meeting
+https://zoom.us/j/99158256403?pwd=ajJOPAiqvzatgWLrsRbRdw7ZLNXTVa.1
+ 
+ 
+Meeting ID:  991 5825 6403
+Passcode: 360741
+ 
+---
+ 
+@Udtechs Helpdesk log a call.
+ 
+Thanks & Regards,
+ 
+Gaurav Singh
+Technical Support Engineer
+Unified Data-Tech Solutions Pvt. Ltd|
+P:	40726000 Ext:  M:   7710878194
+ 
+From: UpendraPatel@TorrentPharma.com <UpendraPatel@TorrentPharma.com> 
+Sent: Monday, December 9, 2024 4:07 PM
+To: Gaurav Singh <gaurav.singh@udtechs.com>
+Subject: Error - Pl check and call me
+ 
+ 
+:wq!
+
+
+
